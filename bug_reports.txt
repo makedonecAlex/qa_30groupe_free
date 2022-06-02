@@ -7,3 +7,4 @@ Priority P2
 Status: open
 Author: Александр Сафонов
 OC:android 8.0
+Assigned To: Вася
