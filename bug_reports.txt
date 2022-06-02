@@ -1,0 +1,9 @@
+ID: 1
+Summary: Ошибка не отображается слово для перевода, пока не поменяешь размер шрифта
+Component: раздел изучения новых слов
+Version: 1.2.5  
+Severity S3
+Priority P2
+Status: open
+Author: Александр Сафонов
+OC:android 8.0
